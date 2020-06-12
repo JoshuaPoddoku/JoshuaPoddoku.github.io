@@ -344,7 +344,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .container-work-img{
 	border: 10px solid #000;
-	border-radius: 20px;
+	border-radius: 7px;
 	box-shadow: 0 10px 20px rgb(0, 0, 0, 0.5);
 }
 .container-work-img img{
@@ -352,7 +352,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .container-work-img-mob{
-	border: 10px solid #000;
-	border-radius: 20px;
+	border: 5px solid #000;
+	border-radius: 7px;
 	box-shadow: 0 10px 20px rgb(0, 0, 0, 0.5);
 }
